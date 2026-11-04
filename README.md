@@ -51,3 +51,6 @@ The workflow involves 5 independent participants (Pools) communicating exclusive
 └── assets/
 ├── bpmn_collaboration_diagram.png # High-res process export
 └── raci_matrix.png
+
+## 📊 Process Diagram Overview
+![BPMN Collaboration Diagram](assets/bpmn-collaboration-diagram.png)

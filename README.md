@@ -40,6 +40,8 @@ The workflow involves 5 independent participants (Pools) communicating exclusive
 - **Requirements Engineering:** Functional (FR), Non-Functional (NFR), Security (SEC), and Legal/Compliance (LEG) specifications.
 - **Governance:** RACI Matrix
 
+## 📊 Process Diagram Overview
+![BPMN Collaboration Diagram](assets/bpmn-collaboration-diagram.png)
 ---
 
 ## 📂 Repository Structure
@@ -51,6 +53,3 @@ The workflow involves 5 independent participants (Pools) communicating exclusive
 └── assets/
 ├── bpmn_collaboration_diagram.png # High-res process export
 └── raci_matrix.png
-
-## 📊 Process Diagram Overview
-![BPMN Collaboration Diagram](assets/bpmn-collaboration-diagram.png)

@@ -41,7 +41,7 @@ The workflow involves 5 independent participants (Pools) communicating exclusive
 - **Governance:** RACI Matrix
 
 ## 📊 Process Diagram Overview
-![BPMN Collaboration Diagram](assets/bpmn-collaboration-diagram.png)
+![BPMN Collaboration Diagram](Assets/BPMN-Collaboration-Diagram.png)
 ---
 
 ## 📂 Repository Structure

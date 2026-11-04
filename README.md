@@ -43,8 +43,6 @@ The workflow involves 5 independent participants (Pools) communicating exclusive
 ## 📊 Process Diagram Overview
 ![BPMN Collaboration Diagram](Assets/BPMN-Collaboration-Diagram.png)
 
-## 📊 RACI Matrix
-[Assets/RACI Matrix.png](./https://github.com/behnam-salimian/Digital-Cheque-Process-BPMN/blob/main/Assets/RACI%20Matrix.png?raw=true)
 ---
 
 ## 📂 Repository Structure
